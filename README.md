@@ -1,1 +1,1 @@
-# Umbrel Apps Gallery
+# Lobby Apps Gallery
